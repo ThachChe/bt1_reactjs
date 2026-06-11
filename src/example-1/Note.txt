@@ -1,0 +1,9 @@
+=== Buổi 1 ===
+* Single Page Application (SPA): khÔNG SEO được (tạo server riêng để SEO )
+* Component 
+
+-example-1
+    -header
+    -nav
+    -content
+    -footer
