@@ -11,7 +11,7 @@ export default function Carousel() {
           {/* Item 1 */}
           <div className="hidden duration-700 ease-in-out" data-carousel-item>
             <img
-              src="public/img/OIP.jpg"
+              src="./img/OIP.jpg"
               className="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
               alt="..."
             />
