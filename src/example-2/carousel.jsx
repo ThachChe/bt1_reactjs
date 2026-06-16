@@ -19,7 +19,7 @@ export default function Carousel() {
           {/* Item 2 */}
           <div className="hidden duration-700 ease-in-out" data-carousel-item>
             <img
-              src="/docs/images/carousel/carousel-2.svg"
+              src="./img/OIP.jpg"
               className="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
               alt="..."
             />
@@ -27,7 +27,7 @@ export default function Carousel() {
           {/* Item 3 */}
           <div className="hidden duration-700 ease-in-out" data-carousel-item>
             <img
-              src="/docs/images/carousel/carousel-3.svg"
+              src="./img/OIP.jpg"
               className="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
               alt="..."
             />
@@ -35,7 +35,7 @@ export default function Carousel() {
           {/* Item 4 */}
           <div className="hidden duration-700 ease-in-out" data-carousel-item>
             <img
-              src="/docs/images/carousel/carousel-4.svg"
+              src="./img/OIP.jpg"
               className="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
               alt="..."
             />
@@ -43,7 +43,7 @@ export default function Carousel() {
           {/* Item 5 */}
           <div className="hidden duration-700 ease-in-out" data-carousel-item>
             <img
-              src="/docs/images/carousel/carousel-5.svg"
+              src="./img/OIP.jpg"
               className="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
               alt="..."
             />
