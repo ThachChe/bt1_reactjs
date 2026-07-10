@@ -6,3 +6,25 @@ Example-2
     - Card (tao 1 cai, goi 4 )
 - Footer
 
+===Buoi 2===
+ *Rendering Element
+ *Handel Event
+ *State: Component re-render lai lan moi khi state có giá trị thay đổi
+
+=== Buoi 3 ====
+* List Key
+
+
+=== Buoi 4 ===
+*Communication
+    *Props: Truyen du lieu tu component cha sang component con
+
+=== Buoi 5 ===
+* Shopping phone
+
+=== Buoi 6 ===
+*Redux(la library)
+-Redux toolkit: tao ra store 
+-React-redux: de ket noi store(chua reducer) voi reactjs
+    +useSelected: lay du lieu tu reducer xuong component
+    +useDispatch: nguoc lai 
